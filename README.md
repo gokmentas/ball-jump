@@ -13,7 +13,7 @@ Ball Jump is an entry-level Hyper Casual game developed in Unity3D. The game cha
 
 ## Overview
 
-Ball Jump provides a simple yet addictive gameplay experience suitable for players of all ages. The intuitive controls and challenging levels make it a perfect choice for quick gaming sessions.
+Ball Jump provides a simple yet addictive gameplay experience suitable for players of all ages. The intuitive controls and a challenging level make it a perfect choice for quick gaming sessions.
 
 ## Features
 
